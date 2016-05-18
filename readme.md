@@ -6,8 +6,9 @@ This is current to the v0.11.2 May 2016 release of the book.
 Chapters not listed did not have references.
 
 Not saved (consider [youtube-dl](https://rg3.github.io/youtube-dl/) for videos):
-  * Any Haskell packages, though I would probably accept a PR adding them
-  * Chapter 19: [Haskell Stack Mega-Tutorial](https://www.youtube.com/watch?v=sRonIB8ZStw)
+  * Any Haskell packages, though I would probably accept a PR adding the .tar.gz's
+  * Chapter 19: [Haskell Stack Mega-Tutorial](https://www.youtube.com/watch?v=sRonIB8ZStw), video
+  * Chapter 26: [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929), full book is browseable but not available for free download
   * Chapter 30: [A Beginner's Guide to Exceptions in Haskell](https://www.youtube.com/watch?v=PWS0Whf6-wc), video
 
 All material is used noncommercially,
