@@ -1,0 +1,1 @@
+If the MVar is currently full, putMVar will wait until it becomes empty. #CatsOfHaskell
